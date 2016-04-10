@@ -1,0 +1,4 @@
+print("hola mundo")
+print("asd"*3)
+print(5+3**6)
+print(6*7*8*9**2)
